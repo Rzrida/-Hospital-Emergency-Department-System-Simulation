@@ -1,0 +1,22 @@
+Multitrauma: 0.10, 0.30, 0.40, 0.15, 0.05
+Blood/Immune: 0.05, 0.25, 0.40, 0.20, 0.10
+Cardiac/Vascular: 0.15, 0.35, 0.30, 0.15, 0.05
+Diabetes/Endocrine: 0.05, 0.20, 0.40, 0.25, 0.10
+DNW Prior to Triage: 0.00, 0.05, 0.15, 0.30, 0.50
+Drug/Alcohol/Poisoning: 0.05, 0.15, 0.40, 0.25, 0.15
+ENT/Oral: 0.05, 0.20, 0.40, 0.25, 0.10
+Environmental/Temperature/MISC: 0.05, 0.25, 0.35, 0.25, 0.10
+Gastrointestinal: 0.05, 0.15, 0.50, 0.20, 0.10
+GP referred /Hosp transfer: 0.00, 0.10, 0.20, 0.30, 0.40
+Injury: 0.10, 0.25, 0.40, 0.15, 0.10
+Neurological: 0.10, 0.30, 0.40, 0.15, 0.05
+Eye: 0.05, 0.10, 0.30, 0.40, 0.15
+Nonemergent Review: 0.00, 0.05, 0.10, 0.25, 0.60
+Obstetrics/Gynaecology: 0.05, 0.15, 0.40, 0.25, 0.15
+Paediatric: 0.05, 0.15, 0.40, 0.25, 0.15
+Pain: 0.05, 0.20, 0.40, 0.25, 0.10
+Psychiatric/Behavioural: 0.05, 0.10, 0.30, 0.35, 0.20
+Regional Problems: 0.05, 0.20, 0.40, 0.25, 0.10
+Renal: 0.05, 0.15, 0.35, 0.30, 0.15
+Respiratory: 0.10, 0.25, 0.40, 0.20, 0.05
+Urinary/Reproductive: 0.05, 0.20, 0.40, 0.25, 0.10

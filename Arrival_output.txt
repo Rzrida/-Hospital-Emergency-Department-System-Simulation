@@ -1,0 +1,494 @@
+ID: 465791
+Patient Condition: Gastrointestinal
+Triage Category: 5
+Arrival Time: 50
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465792
+Patient Condition: Multitrauma
+Triage Category: 1
+Arrival Time: 55
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 462
+Treatment Time: 31.0
+---------------------------------
+ID: 465793
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 2
+Arrival Time: 55
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465794
+Patient Condition: Pain
+Triage Category: 3
+Arrival Time: 70
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465795
+Patient Condition: Diabetes/Endocrine
+Triage Category: 3
+Arrival Time: 80
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465796
+Patient Condition: Paediatric
+Triage Category: 3
+Arrival Time: 80
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465797
+Patient Condition: Regional Problems
+Triage Category: 3
+Arrival Time: 80
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465798
+Patient Condition: Eye
+Triage Category: 2
+Arrival Time: 85
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465799
+Patient Condition: Injury
+Triage Category: 5
+Arrival Time: 90
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465800
+Patient Condition: Gastrointestinal
+Triage Category: 2
+Arrival Time: 100
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 335
+Treatment Time: 25.0
+---------------------------------
+ID: 465801
+Patient Condition: Multitrauma
+Triage Category: 1
+Arrival Time: 110
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 462
+Treatment Time: 31.0
+---------------------------------
+ID: 465802
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 5
+Arrival Time: 110
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465803
+Patient Condition: Blood/Immune
+Triage Category: 4
+Arrival Time: 115
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465804
+Patient Condition: Cardiac/Vascular
+Triage Category: 3
+Arrival Time: 120
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465805
+Patient Condition: Renal
+Triage Category: 2
+Arrival Time: 120
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465806
+Patient Condition: Pain
+Triage Category: 4
+Arrival Time: 140
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465807
+Patient Condition: Gastrointestinal
+Triage Category: 3
+Arrival Time: 150
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465808
+Patient Condition: Neurological
+Triage Category: 3
+Arrival Time: 155
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465809
+Patient Condition: Obstetrics/Gynaecology
+Triage Category: 3
+Arrival Time: 155
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465810
+Patient Condition: Diabetes/Endocrine
+Triage Category: 3
+Arrival Time: 160
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465811
+Patient Condition: Paediatric
+Triage Category: 1
+Arrival Time: 160
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 289
+Treatment Time: 31.0
+---------------------------------
+ID: 465812
+Patient Condition: Regional Problems
+Triage Category: 4
+Arrival Time: 160
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465813
+Patient Condition: Multitrauma
+Triage Category: 3
+Arrival Time: 165
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465814
+Patient Condition: ENT/Oral
+Triage Category: 4
+Arrival Time: 165
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465815
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 3
+Arrival Time: 165
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465816
+Patient Condition: Eye
+Triage Category: 3
+Arrival Time: 170
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465817
+Patient Condition: Urinary/Reproductive
+Triage Category: 3
+Arrival Time: 175
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465818
+Patient Condition: Injury
+Triage Category: 3
+Arrival Time: 180
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465819
+Patient Condition: Environmental/Temperature/MISC
+Triage Category: 2
+Arrival Time: 185
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465820
+Patient Condition: Drug/Alcohol/Poisoning
+Triage Category: 3
+Arrival Time: 195
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465821
+Patient Condition: Gastrointestinal
+Triage Category: 2
+Arrival Time: 200
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 335
+Treatment Time: 25.0
+---------------------------------
+ID: 465822
+Patient Condition: DNW Prior to Triage
+Triage Category: 3
+Arrival Time: 210
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465823
+Patient Condition: Pain
+Triage Category: 5
+Arrival Time: 210
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465824
+Patient Condition: Multitrauma
+Triage Category: 3
+Arrival Time: 220
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465825
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 5
+Arrival Time: 220
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465826
+Patient Condition: Blood/Immune
+Triage Category: 4
+Arrival Time: 230
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465827
+Patient Condition: Cardiac/Vascular
+Triage Category: 1
+Arrival Time: 240
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 439
+Treatment Time: 31.0
+---------------------------------
+ID: 465828
+Patient Condition: Diabetes/Endocrine
+Triage Category: 5
+Arrival Time: 240
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465829
+Patient Condition: Paediatric
+Triage Category: 4
+Arrival Time: 240
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465830
+Patient Condition: Regional Problems
+Triage Category: 3
+Arrival Time: 240
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465831
+Patient Condition: Renal
+Triage Category: 5
+Arrival Time: 240
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465832
+Patient Condition: Gastrointestinal
+Triage Category: 3
+Arrival Time: 250
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465833
+Patient Condition: Eye
+Triage Category: 3
+Arrival Time: 255
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465834
+Patient Condition: Injury
+Triage Category: 2
+Arrival Time: 270
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 323
+Treatment Time: 25.0
+---------------------------------
+ID: 465835
+Patient Condition: Multitrauma
+Triage Category: 3
+Arrival Time: 275
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465836
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 5
+Arrival Time: 275
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465837
+Patient Condition: Pain
+Triage Category: 2
+Arrival Time: 280
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465838
+Patient Condition: Psychiatric/Behavioural
+Triage Category: 2
+Arrival Time: 290
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 323
+Treatment Time: 25.0
+---------------------------------
+ID: 465839
+Patient Condition: Respiratory
+Triage Category: 3
+Arrival Time: 290
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465840
+Patient Condition: Gastrointestinal
+Triage Category: 3
+Arrival Time: 300
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465841
+Patient Condition: Neurological
+Triage Category: 3
+Arrival Time: 310
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465842
+Patient Condition: Obstetrics/Gynaecology
+Triage Category: 4
+Arrival Time: 310
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465843
+Patient Condition: Diabetes/Endocrine
+Triage Category: 3
+Arrival Time: 320
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465844
+Patient Condition: Paediatric
+Triage Category: 3
+Arrival Time: 320
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465845
+Patient Condition: Regional Problems
+Triage Category: 3
+Arrival Time: 320
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465846
+Patient Condition: Multitrauma
+Triage Category: 3
+Arrival Time: 330
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465847
+Patient Condition: ENT/Oral
+Triage Category: 2
+Arrival Time: 330
+Inpatient: No
+Treatment Time: 25.0
+---------------------------------
+ID: 465848
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 4
+Arrival Time: 330
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465849
+Patient Condition: Eye
+Triage Category: 4
+Arrival Time: 340
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465850
+Patient Condition: Blood/Immune
+Triage Category: 4
+Arrival Time: 345
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465851
+Patient Condition: Gastrointestinal
+Triage Category: 5
+Arrival Time: 350
+Inpatient: No
+Treatment Time: 41.0
+---------------------------------
+ID: 465852
+Patient Condition: Pain
+Triage Category: 3
+Arrival Time: 350
+Inpatient: No
+Treatment Time: 39.0
+---------------------------------
+ID: 465853
+Patient Condition: Urinary/Reproductive
+Triage Category: 4
+Arrival Time: 350
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465854
+Patient Condition: Cardiac/Vascular
+Triage Category: 4
+Arrival Time: 360
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465855
+Patient Condition: Injury
+Triage Category: 2
+Arrival Time: 360
+Inpatient: Yes
+Arrival to Inpatient Queue Time: 0
+Post-Treatment Time: 323
+Treatment Time: 25.0
+---------------------------------
+ID: 465856
+Patient Condition: Nonemergent Review
+Triage Category: 4
+Arrival Time: 360
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465857
+Patient Condition: Renal
+Triage Category: 4
+Arrival Time: 360
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------
+ID: 465858
+Patient Condition: Environmental/Temperature/MISC
+Triage Category: 4
+Arrival Time: 370
+Inpatient: No
+Treatment Time: 44.0
+---------------------------------

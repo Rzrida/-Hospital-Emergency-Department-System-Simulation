@@ -1,0 +1,72 @@
+ID: 465793
+Patient Condition: GP referred /Hosp transfer
+Triage Category: 2
+Arrival Time: 55
+Time of Bed: 55
+Inpatient: No
+Treatment Time: 50.0
+Time of Discharge: 115
+---------------------------------
+ID: 465791
+Patient Condition: Gastrointestinal
+Triage Category: 5
+Arrival Time: 50
+Time of Bed: 50
+Inpatient: No
+Treatment Time: 82.0
+Time of Discharge: 140
+---------------------------------
+ID: 465798
+Patient Condition: Eye
+Triage Category: 2
+Arrival Time: 85
+Time of Bed: 85
+Inpatient: No
+Treatment Time: 50.0
+Time of Discharge: 145
+---------------------------------
+ID: 465805
+Patient Condition: Renal
+Triage Category: 2
+Arrival Time: 120
+Time of Bed: 120
+Inpatient: No
+Treatment Time: 50.0
+Time of Discharge: 180
+---------------------------------
+ID: 465794
+Patient Condition: Pain
+Triage Category: 3
+Arrival Time: 70
+Time of Bed: 141
+Inpatient: No
+Treatment Time: 78.0
+Time of Discharge: 226
+---------------------------------
+ID: 465819
+Patient Condition: Environmental/Temperature/MISC
+Triage Category: 2
+Arrival Time: 185
+Time of Bed: 185
+Inpatient: No
+Treatment Time: 50.0
+Time of Discharge: 245
+---------------------------------
+ID: 465795
+Patient Condition: Diabetes/Endocrine
+Triage Category: 3
+Arrival Time: 80
+Time of Bed: 227
+Inpatient: No
+Treatment Time: 78.0
+Time of Discharge: 312
+---------------------------------
+ID: 465837
+Patient Condition: Pain
+Triage Category: 2
+Arrival Time: 280
+Time of Bed: 280
+Inpatient: No
+Treatment Time: 50.0
+Time of Discharge: 340
+---------------------------------

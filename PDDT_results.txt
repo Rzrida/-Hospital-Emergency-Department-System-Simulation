@@ -1,0 +1,25 @@
+Condition  Triage, Optimal PDDT
+Multitrauma, 1, 462
+Multitrauma, 2, 416
+Cardiac/Vascular, 1, 439
+Cardiac/Vascular, 2, 393
+Psychiatric/Behavioural, 1, 370
+Psychiatric/Behavioural, 2, 323
+Blood/Immune, 1, 393
+Blood/Immune, 2, 347
+Diabetes/Endocrine, 1, 370
+Diabetes/Endocrine, 2, 323
+Drug/Alcohol/Poisoning, 1, 416
+Drug/Alcohol/Poisoning, 2, 370
+Gastrointestinal, 1, 381
+Gastrointestinal, 2, 335
+GP referred/Hosp transfer, 1, 404
+Injury, 1, 370
+Injury, 2, 323
+Neurological, 1, 439
+Neurological, 2, 393
+Obstetrics/Gynaecology, 1, 370
+Obstetrics/Gynaecology, 2, 323
+Paediatric, 1, 289
+Respiratory, 1, 370
+Respiratory, 2, 323

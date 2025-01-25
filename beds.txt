@@ -1,0 +1,7 @@
+Total Beds: 116
+SubacuteBed: 25
+AcuteBed: 25
+MinorProcedureRoom: 25
+ResuscitationBed: 25
+Stretchers: 13
+ReclinerChairs:3

@@ -1,0 +1,23 @@
+Condition, Arrival Time (minutes)
+Multitrauma, 20.00
+Blood/Immune, 45.00
+Cardiac/Vascular, 60.00
+Diabetes/Endocrine, 50.00
+DNW Prior to Triage, 160.00
+Drug/Alcohol/Poisoning, 140.00
+ENT/Oral, 80.00
+Environmental/Temperature/MISC, 90.00
+Gastrointestinal, 50.00
+GP referred /Hosp transfer, 20.00
+Injury, 60.00
+Neurological, 70.00
+Eye, 40.00
+Nonemergent Review, 205.00
+Obstetrics/Gynaecology, 20.00
+Paediatric, 45.00
+Pain, 25.00
+Psychiatric/Behavioural, 160.00
+Regional Problems, 30.00
+Renal, 20.00
+Respiratory, 95.00
+Urinary/Reproductive, 90.00

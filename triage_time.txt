@@ -1,0 +1,6 @@
+Category, Time
+Triage 1,31
+Triage 2,25
+Triage 3,39
+Triage 4,44
+Triage 5,41

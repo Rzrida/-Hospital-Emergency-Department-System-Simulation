@@ -1,0 +1,4 @@
+Total Physicians: 120
+Intern: 40
+JuniorResident: 40
+SeniorResident: 40

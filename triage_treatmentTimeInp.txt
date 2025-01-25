@@ -1,0 +1,6 @@
+Category,Beta,P,Q
+Triage 1,300,1.64,5.72
+Triage 2,320,1.50,5.80
+Triage 3,340,1.70,5.90
+Triage 4,355,1.75,6.00
+Triage 5,310,1.80,6.10

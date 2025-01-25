@@ -1,0 +1,4 @@
+Senior Consultation, 5
+Laboratory, 3
+Treatment Procedure, 3
+NursingProcedure, 5

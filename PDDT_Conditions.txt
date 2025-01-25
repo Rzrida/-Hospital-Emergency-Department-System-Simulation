@@ -1,0 +1,24 @@
+Multitrauma,1,200
+Multitrauma,2,180
+Cardiac/Vascular,1,190
+Cardiac/Vascular,2,170
+Psychiatric/Behavioural,1,160
+Psychiatric/Behavioural,2,140
+Blood/Immune,1,170
+Blood/Immune,2,150
+Diabetes/Endocrine,1,160
+Diabetes/Endocrine,2,140
+Drug/Alcohol/Poisoning,1,180
+Drug/Alcohol/Poisoning,2,160
+Gastrointestinal,1,165
+Gastrointestinal,2,145
+GP referred/Hosp transfer,1,175
+Injury,1,160
+Injury,2,140
+Neurological,1,190
+Neurological,2,170
+Obstetrics/Gynaecology,1,160
+Obstetrics/Gynaecology,2,140
+Paediatric,1,125
+Respiratory,1,160
+Respiratory,2,140
